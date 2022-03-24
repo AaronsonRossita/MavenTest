@@ -98,6 +98,7 @@ public class FirstTest {
             loginBtn.click();
             Thread.sleep(3000);
         }
+        driver.quit();
     }
 
 
